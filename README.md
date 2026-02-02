@@ -1,2 +1,2 @@
-# aula_lima
+# Biolima
 repositorio para centralizar os estudos de lima.
