@@ -1,0 +1,10 @@
+table{
+    border-collapse: collapse;
+    text-align: center;
+}
+th, td{
+    padding: 10px;
+}
+thead{
+    background-color: pink;
+}
