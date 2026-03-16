@@ -1,0 +1,52 @@
+/*----- sintaxe --------
+seletor {
+propridade : valor 
+
+}
+*/
+
+p{
+    color:rgb(12, 218, 70);
+}
+h1{
+    /*RGB*/
+    color: rgb(233, 237, 0);
+    /* codigo de cor: */
+    color: #1523bf;
+    /* nome da cor */
+    color:blueviolet;
+    /* RGBA */
+    color: rgba(255, 0, 0, 0.478);
+}
+
+
+
+
+p{
+    color: #000;
+    /* altera a familia da fonte  */
+    font-family: Arial, Helvetica, sans-serif;
+    /* Altera o tamanho da  fonte */
+    font-size: 50px;
+    /* Espesura da fonte  */
+    font-weight: 600;
+    /* distancia da linha  */
+    line-height: 65px;
+
+    /* transforme o texto*/
+    text-transform: capitalize;
+    margin: 35px;;
+    padding: 50px;
+    border: 50px;
+}
+
+.box{
+    text-align: center;
+    background-position: center;
+    padding: 5px 50px 10px 20px;
+    background-color: chocolate;
+    color:black;
+    border: 5px solid #000;
+    margin: 60px;
+}
+
